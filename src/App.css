@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /*1 rem wordt gelijk aan 10 px */
+}
+body {
+  font-family: "Lato", sans-serif;
+  background: #472d2d;
+  font-size: 1.6rem;
+}
