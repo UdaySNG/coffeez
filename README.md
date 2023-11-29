@@ -1,4 +1,4 @@
-# Coffeeez
+# Coffeez
 
 **English:** <br />
 In this project I created a Simple coffee showcase page in English,
