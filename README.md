@@ -1,6 +1,6 @@
 # Coffeeez
 
-**Engels: **
+**Engels:**
 In this project I created a Simple coffee showcase page in English,
 The project was created entirely in react, using standard CSS for styling.
 
